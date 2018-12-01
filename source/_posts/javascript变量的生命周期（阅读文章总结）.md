@@ -1,6 +1,7 @@
 ---
 title: javascript变量的生命周期:为什么let不被提升
 date: 2018-11-29 14:50:27
+categories: Javascript
 tags: Javascript
 ---
 

@@ -2,6 +2,7 @@
 layout: Vue开发插件devtools
 title: devtools
 date: 2018-07-27 15:33:42
+categories: 开发工具
 tags: Vue
 ---
 

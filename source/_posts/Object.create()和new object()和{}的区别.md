@@ -1,7 +1,7 @@
 ---
 title: Object.create()和new object()和{}的区别
 date: 2018-07-26 17:42:14
-tags:
+categories: Javascript
 ---
 ### Object.create()
 
@@ -41,8 +41,6 @@ let NewObj03 = {
 
    ------
 
-   
-
 2. ##### Object.create
 
    ```javascript
@@ -57,8 +55,6 @@ let NewObj03 = {
    {% asset_img 02.png Object.create()返回的结果%}
 
    ------
-
-   
 
 3. ##### {}
 
