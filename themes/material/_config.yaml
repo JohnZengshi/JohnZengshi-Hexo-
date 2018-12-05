@@ -28,12 +28,15 @@ url:
 # ---------------------------------------------------------------
 
 # Schemes
+# scheme: Nexus
 scheme: Paradox
-#scheme: Isolation
+# scheme: Isolation
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: 
+        - "WHAT'S UP,MAN"
+        - "lalalalala"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -65,8 +68,10 @@ background:
     purecolor: "#F5F5F5"
     #bgimg: "/img/bg.png"
     bing:
-        enable: false
+        enable: true
         parameter:
+            color=: white,pink
+            type=: A,N,T
 
 # Images Settings
 img:
@@ -206,7 +211,7 @@ sidebar:
             #divider: false
     article_num:
         use: true
-        divider: true
+        divider: false
     footer:
         divider: true
         theme: false
